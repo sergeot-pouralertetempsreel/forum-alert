@@ -1,3 +1,10 @@
 {
-  "alertes": []
+  "alertes": [
+    {
+      "id": "alerte_1781605909800",
+      "titre": "Bonne semaine",
+      "message": "à tous les cliqueurs",
+      "image": ""
+    }
+  ]
 }
