@@ -1,10 +1,3 @@
 {
-  "alertes": [
-    {
-      "id": "alerte_1782120455998",
-      "titre": "On est le lundi 22/06/2026.",
-      "message": "On n'oublie donc pas d'aller voter avant minuit.",
-      "image": ""
-    }
-  ]
+  "alertes": []
 }
