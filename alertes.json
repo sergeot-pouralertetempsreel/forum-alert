@@ -1,3 +1,10 @@
 {
-  "alertes": []
+  "alertes": [
+    {
+      "id": "alerte_1783892342674",
+      "titre": "NOUVEAU FORUM",
+      "message": "Le coin argentique à découvrir dans le \"Clic Technique\".",
+      "image": ""
+    }
+  ]
 }
